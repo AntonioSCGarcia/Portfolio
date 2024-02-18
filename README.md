@@ -3,9 +3,13 @@
 #### Technical Skills: Python, SQL, Power BI, R Studio, Excel
 
 ## Topics
-- Segmentation and Scraping | The University of Texas at Dallas (_May 2022_)								       		
-- Data Visualization	| The University of Texas at Dallas (_December 2019_)	 			        		
-- Data Mining | The University of Texas at Dallas (_May 2017_)
+- Master Thesis | Competitor Analysis and Customer Segmentation in the Built to Rent Revenue Management (_January 2024_)								       		
+- Data Visualization & Dashboarding | Where in the UK are the best job opportunities for the millennial generation (_May 2023_)	 			        		
+- Data Mining and Machine Learning | Building an Ensemble Model over Facebook metrics and Predicting the Price of NETFLIX Stock with LSTM Neural Networks (_May 2022_)
+- Data Warehousing and Business Intelligence | RFM analysis and k-means clustering using SQLite and Python to design a marketing data mart (_April 2022_)
+- Simulation modelling | Call center case study (_April 2022_)
+- Business Analytics | Studying Real Estate, Medical and Manufacturing data statistics to prove optimization modelling (_April 2022_)
+- Data Warehousing and Business Intelligence | 
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
