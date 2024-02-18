@@ -9,7 +9,6 @@
 - Data Warehousing and Business Intelligence | RFM analysis and k-means clustering using SQLite and Python to design a marketing data mart (_April 2022_)
 - Simulation modelling | Call center case study (_April 2022_)
 - Business Analytics | Studying Real Estate, Medical and Manufacturing data statistics to prove optimization modelling (_April 2022_)
-- Data Warehousing and Business Intelligence | 
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
