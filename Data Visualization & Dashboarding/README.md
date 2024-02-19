@@ -1,1 +1,3 @@
-You can now write the summary of your essay or project in the README.md file using Markdown formatting. You don’t need to upload the full essay or the code if you don’t want to; just provide a summary
+The goal here was to formulate a research question, find the data, explore the data using Power BI and Python, and finally create a data visual narrative of the findings.
+Because a map says more than a thousand words, this project dives into the visualization of the UK’s millennial population on a map. To analyse how the job competition is block by block considering some core living expenses metrics. Subject to this project solution.
+For disclaimer, the data involve accurate Census data (dated mid-2021) as well as public but experimental data regarding rental pricing, and job advertisement statistics. And does not include Northern Ireland.
