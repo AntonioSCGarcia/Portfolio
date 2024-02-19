@@ -1,8 +1,8 @@
 # Data Scientist Background 
 
-#### Technical Skills: Python, SQL, Power BI, R Studio, Excel
+#### Software Skills: Python, SQL, Power BI, R Studio, Excel
 
-## Topics
+## Topics table of content
 - Master Thesis | Competitor Analysis and Customer Segmentation in the Built to Rent Revenue Management (_January 2024_)								       		
 - Data Visualization & Dashboarding | Where in the UK are the best job opportunities for the millennial generation (_May 2023_)	 			        		
 - Data Mining and Machine Learning | Building an Ensemble Model over Facebook metrics and Predicting the Price of NETFLIX Stock with LSTM Neural Networks (_May 2022_)
@@ -10,17 +10,11 @@
 - Simulation modelling | Call center case study (_April 2022_)
 - Business Analytics | Studying Real Estate, Medical and Manufacturing data statistics to prove optimization modelling (_April 2022_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+<img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Master Thesis | Competitor Analysis and Customer Segmentation in the Built to Rent Revenue Management (_January 2024_)								       		
+
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
