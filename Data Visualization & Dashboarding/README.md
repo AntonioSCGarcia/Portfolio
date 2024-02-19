@@ -1,0 +1,1 @@
+You can now write the summary of your essay or project in the README.md file using Markdown formatting. You don’t need to upload the full essay or the code if you don’t want to; just provide a summary
