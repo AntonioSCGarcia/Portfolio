@@ -5,7 +5,7 @@
 #### Software Skills: Salesforce Sales Cloud CRM, Power BI, Microsoft Teams, 
 
 - SF Churn Forecasting | (_January 2024_)
-<img width="620" alt="Screenshot 2024-02-26 at 03 05 24" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/160c72bd-026d-4e9c-9909-70bf21dd4bcb">
+<img width="768" alt="Screenshot 2024-02-26 at 03 15 38" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/aee209ab-7ca8-45b7-b00f-239d066f3222">
 
 - SF Operational Dashboards | (_January 2024_)
 <img width="1428" alt="Screenshot 2024-02-26 at 02 53 30" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d7121984-9d37-4c03-8fd8-86b9ea24ca81">
@@ -21,7 +21,9 @@
 
 #### Software Skills: Python, SQLite, Excel
 - Data Mining and Machine Learning | Building an Ensemble Model over Facebook metrics | (_January 2024_)
+  
 - RFM analysis and k-means clustering | Customer DB segmentation in Revenue Management | (_January 2024_)
+<img width="407" alt="Screenshot 2024-02-26 at 03 13 58" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/10604dc3-f7a2-4206-b3b2-6bd620ff2a33">
 
 - Competitor Analysis and Customer Segmentation in the Built to Rent Revenue Management (_January 2024_)								       		
 - Data Visualization & Dashboarding | Where in the UK are the best job opportunities for the millennial generation (_May 2023_)
