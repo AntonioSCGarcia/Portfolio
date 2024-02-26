@@ -15,7 +15,7 @@
 <img width="343" alt="Screenshot 2024-02-26 at 03 07 25" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/045a6e7e-7134-4461-8d56-deedebe45361">
 
 - SF Integrations proof | (_January 2024_)
-    <img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
+<img width="403" alt="Screenshot 2024-02-26 at 03 11 47" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/ce18825a-e7c0-41e9-a6ea-6455ef9ac554">
 
 ## Marketing Projects
 
@@ -30,11 +30,12 @@
 
 ## Research Projects
 
-#### Software Skills: Python, SQLite, Excel
+#### Software Skills: Python (selenium, Beautiful Soup), SQLite, Excel
 - Price Web Scraping |Competitor Market Analysis | (_January 2024_)
 <img width="371" alt="Screenshot 2024-02-26 at 02 58 34" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/5c972891-e57b-40a6-a6f6-6e4eda2dbfcf">
-- Data Warehousing and Business Intelligence | RFM analysis and k-means clustering using SQLite and Python to design a marketing data mart (_April 2022_)
 
+- Data Warehousing and Business Intelligence | RFM analysis and k-means clustering using SQLite and Python to design a marketing data mart (_April 2022_)
+<img width="301" alt="Screenshot 2024-02-26 at 03 24 39" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/75b0a239-4432-4bc2-9799-d9e0116a125f">
 
 
   
