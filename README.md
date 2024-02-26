@@ -5,14 +5,14 @@
 #### Software Skills: Salesforce Sales Cloud CRM, Power BI, Microsoft Teams, 
 
 - SF Churn Forecasting | (_January 2024_)
- 
+<img width="620" alt="Screenshot 2024-02-26 at 03 05 24" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/160c72bd-026d-4e9c-9909-70bf21dd4bcb">
 
 - SF Operational Dashboards | (_January 2024_)
 <img width="1428" alt="Screenshot 2024-02-26 at 02 53 30" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d7121984-9d37-4c03-8fd8-86b9ea24ca81">
 <img width="1432" alt="Screenshot 2024-02-26 at 02 57 20" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a36765b2-9729-4f19-bc16-543971cbc308">
 
 - SF Training guidelines | (_January 2024_)
-    <img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
+<img width="343" alt="Screenshot 2024-02-26 at 03 07 25" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/045a6e7e-7134-4461-8d56-deedebe45361">
 
 - SF Integrations proof | (_January 2024_)
     <img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
