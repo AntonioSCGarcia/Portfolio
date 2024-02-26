@@ -5,10 +5,11 @@
 #### Software Skills: Salesforce Sales Cloud CRM, Power BI, Microsoft Teams, 
 
 - SF Churn Forecasting | (_January 2024_)
-  <img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
+ 
 
 - SF Operational Dashboards | (_January 2024_)
-    <img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
+<img width="1428" alt="Screenshot 2024-02-26 at 02 53 30" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d7121984-9d37-4c03-8fd8-86b9ea24ca81">
+<img width="1432" alt="Screenshot 2024-02-26 at 02 57 20" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a36765b2-9729-4f19-bc16-543971cbc308">
 
 - SF Training guidelines | (_January 2024_)
     <img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
@@ -27,6 +28,9 @@
 
 ## Research Projects
 
+#### Software Skills: Python, SQLite, Excel
+- Price Web Scraping |Competitor Market Analysis | (_January 2024_)
+<img width="371" alt="Screenshot 2024-02-26 at 02 58 34" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/5c972891-e57b-40a6-a6f6-6e4eda2dbfcf">
 - Data Warehousing and Business Intelligence | RFM analysis and k-means clustering using SQLite and Python to design a marketing data mart (_April 2022_)
 
 
