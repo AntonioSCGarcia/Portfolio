@@ -1,7 +1,39 @@
-# Data Scientist Background 
+# Background 
 
+## Sales Projects
+
+#### Software Skills: Salesforce Sales Cloud CRM, Power BI, Microsoft Teams, 
+
+- SF Churn Forecasting | (_January 2024_)
+  <img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
+
+- SF Operational Dashboards | (_January 2024_)
+    <img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
+
+- SF Training guidelines | (_January 2024_)
+    <img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
+
+- SF Integrations proof | (_January 2024_)
+    <img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
+
+## Marketing Projects
+
+#### Software Skills: Python, SQLite, Excel
+- Data Mining and Machine Learning | Building an Ensemble Model over Facebook metrics | (_January 2024_)
+- RFM analysis and k-means clustering | Customer DB segmentation in Revenue Management | (_January 2024_)
+
+- Competitor Analysis and Customer Segmentation in the Built to Rent Revenue Management (_January 2024_)								       		
+- Data Visualization & Dashboarding | Where in the UK are the best job opportunities for the millennial generation (_May 2023_)
+
+## Research Projects
+
+- Data Warehousing and Business Intelligence | RFM analysis and k-means clustering using SQLite and Python to design a marketing data mart (_April 2022_)
+
+
+
+  
 #### Software Skills: Python, SQL, Power BI, R Studio, Excel
-
+#### 
 ## Topics table of content
 - Master Thesis | Competitor Analysis and Customer Segmentation in the Built to Rent Revenue Management (_January 2024_)								       		
 - Data Visualization & Dashboarding | Where in the UK are the best job opportunities for the millennial generation (_May 2023_)	 			        		
