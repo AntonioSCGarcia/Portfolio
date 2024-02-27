@@ -4,18 +4,13 @@
 
 #### Software Skills: Salesforce Sales Cloud CRM, Power BI, Microsoft Teams, 
 
-- Salesforce Churn Forecasting | (_January 2024_)
+- Leads Churn Prediction with Python and Power BI | (_January 2024_)
 <img width="768" alt="Screenshot 2024-02-26 at 03 15 38" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/aee209ab-7ca8-45b7-b00f-239d066f3222">
 
 - Salesforce Operational Dashboards | (_October 2023_)
 <img width="1428" alt="Screenshot 2024-02-26 at 02 53 30" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d7121984-9d37-4c03-8fd8-86b9ea24ca81">
 <img width="1432" alt="Screenshot 2024-02-26 at 02 57 20" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a36765b2-9729-4f19-bc16-543971cbc308">
 
-- Salesforce Training guidelines | (_September 2023_)
-<img width="343" alt="Screenshot 2024-02-26 at 03 07 25" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/045a6e7e-7134-4461-8d56-deedebe45361">
-
-- Salesforce Integrations proof | (_May 2022_)
-<img width="403" alt="Screenshot 2024-02-26 at 03 11 47" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/ce18825a-e7c0-41e9-a6ea-6455ef9ac554">
 
 ## Marketing Projects
 
@@ -37,24 +32,15 @@
 - Data Warehousing and Business Intelligence | RFM analysis and k-means clustering using SQLite and Python to design a marketing data mart (_April 2022_)
 <img width="301" alt="Screenshot 2024-02-26 at 03 24 39" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/75b0a239-4432-4bc2-9799-d9e0116a125f">
 
+## Management Projects
 
-  
-#### Software Skills: Python, SQL, Power BI, R Studio, Excel
-#### 
-## Topics table of content
-- Master Thesis | Competitor Analysis and Customer Segmentation in the Built to Rent Revenue Management (_January 2024_)								       		
-- Data Visualization & Dashboarding | Where in the UK are the best job opportunities for the millennial generation (_May 2023_)	 			        		
-- Data Mining and Machine Learning | Building an Ensemble Model over Facebook metrics and Predicting the Price of NETFLIX Stock with LSTM Neural Networks (_May 2022_)
-- Data Warehousing and Business Intelligence | RFM analysis and k-means clustering using SQLite and Python to design a marketing data mart (_April 2022_)
-- Simulation modelling | Call center case study (_April 2022_)
-- Business Analytics | Studying Real Estate, Medical and Manufacturing data statistics to prove optimization modelling (_April 2022_)
+#### Software Skills: Salesforce, Creative Cloud, Microsoft 365 
 
-<img width="664" alt="Screenshot 2024-02-19 at 20 16 02" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c154329f-7261-48c9-8c6f-e4b4242711f2">
+- Salesforce Training core guidelines developed | (_September 2023_)
+<img width="580" alt="Screenshot 2024-02-27 at 10 00 53" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/85842b61-5473-4e19-a413-03ea302a493c">
 
-## Projects
-### Master Thesis | Competitor Analysis and Customer Segmentation in the Built to Rent Revenue Management (_January 2024_)								       		
-
-This study delves into the intricacies of customer segmentation, conversion rates, and competitive analysis, aiming to develop a data-driven marketing strategy tailored for the Built to Rent (BTR) sector in London, UK. It seeks to answer the pivotal research question: How can we integrate internal sales data from Customer Relationship Management (CRM) and Property Management Systems (PMS) with external competitor pricing data from Analytica? The context is a real-life start-up scenario within the niche of Purpose-Built Student Accommodation (PBSA), closely linked with university housing. The project underscores the significance of automating data collection through web scraping and harnessing machine learning techniques, including clustering and predicting sales attrition, utilizing customer transactional records. The culmination of this effort is the production of an interactive dashboard that not only visualizes the data but also encapsulates the findings of this comprehensive analysis in a transferable business intelligence solution. This document compiles and articulates the insights and technical nuances across three distinct models and five diverse datasets, encompassing over fifty-nine features and a plethora of computed metrics. It also details the integration of two complete data processing streams, presenting them in a fluid and coherent manner. This report encapsulates the methodological approach, the analytical journey, and the strategic outcomes, all aimed at bolstering the marketing efficacy within the dynamic BTR landscape.
+- Salesforce Integrations (Outlook, Mailchimp, Website Landing Pages) | (_May 2022_)
+<img width="403" alt="Screenshot 2024-02-26 at 03 11 47" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/ce18825a-e7c0-41e9-a6ea-6455ef9ac554">
 
 
-(WORKING ON IT, WILL BE UPDATED BY THE 29th of FEB)
+
