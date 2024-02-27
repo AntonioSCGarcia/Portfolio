@@ -1,4 +1,5 @@
-# Background 
+# Technical Background 
+
 
 ## Sales Projects
 
@@ -26,10 +27,11 @@
 - Competitor Analysis in the Built to Rent Revenue Management (_March 2021_)
 <img width="757" alt="Screenshot 2024-02-27 at 10 20 55" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/dd536f6b-2d1a-4857-9a2b-204ae2d359f8">
 <img width="434" alt="Screenshot 2024-02-27 at 10 21 15" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/ab268140-272f-4c4e-811a-864880d1b670">
-
-
   
 - Data Visualization & Dashboarding | Where in the UK are the best job opportunities for the millennial generation (_May 2023_)
+<img width="507" alt="Screenshot 2024-02-27 at 10 24 11" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/5ab86d35-4930-4c16-8fc6-953149054576">
+<img width="703" alt="Screenshot 2024-02-27 at 10 23 44" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d022cdc3-10fa-484f-91a5-ebf42c2a80b8">
+
 
 ## Research Projects
 
@@ -37,8 +39,8 @@
 - Price Web Scraping |Competitor Market Analysis | (_January 2024_)
 <img width="371" alt="Screenshot 2024-02-26 at 02 58 34" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/5c972891-e57b-40a6-a6f6-6e4eda2dbfcf">
 
-- Data Warehousing and Business Intelligence | RFM analysis and k-means clustering using SQLite and Python to design a marketing data mart (_April 2022_)
-<img width="301" alt="Screenshot 2024-02-26 at 03 24 39" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/75b0a239-4432-4bc2-9799-d9e0116a125f">
+- Data Warehousing and Business Intelligence | Data mart deign with SQLite and Python (_April 2022_)
+<img width="664" alt="Screenshot 2024-02-27 at 10 27 35" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/090ba53f-9ce1-4e43-b5a0-23f7d2d06665">
 
 ## Management Projects
 
@@ -47,8 +49,9 @@
 - Salesforce Training core guidelines developed | (_September 2023_)
 <img width="580" alt="Screenshot 2024-02-27 at 10 00 53" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/85842b61-5473-4e19-a413-03ea302a493c">
 
-- Salesforce Integrations (Outlook, Mailchimp, Website Landing Pages) | (_May 2022_)
-<img width="403" alt="Screenshot 2024-02-26 at 03 11 47" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/ce18825a-e7c0-41e9-a6ea-6455ef9ac554">
+- Salesforce Integrations (Outlook, Mailchimp, Website Landing Pages) | (_May 2021_)
+<img width="698" alt="Screenshot 2024-02-27 at 10 25 34" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c3449b23-b45e-4f25-ad34-669b31060486">
+<img width="399" alt="Screenshot 2024-02-27 at 10 26 00" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/78eee6ae-574e-4dce-a0dc-4793e3104f93">
 
 
 
