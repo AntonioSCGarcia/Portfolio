@@ -39,7 +39,7 @@
 - Price Web Scraping |Competitor Market Analysis | (_January 2024_)
 <img width="371" alt="Screenshot 2024-02-26 at 02 58 34" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/5c972891-e57b-40a6-a6f6-6e4eda2dbfcf">
 
-- Data Warehousing and Business Intelligence | Data mart deign with SQLite and Python (_April 2022_)
+- Data Warehousing and Business Intelligence | Data-mart design with SQLite and Python (_April 2022_)
 <img width="664" alt="Screenshot 2024-02-27 at 10 27 35" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/090ba53f-9ce1-4e43-b5a0-23f7d2d06665">
 
 ## Management Projects
@@ -49,9 +49,8 @@
 - Salesforce Training core guidelines developed | (_September 2023_)
 <img width="580" alt="Screenshot 2024-02-27 at 10 00 53" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/85842b61-5473-4e19-a413-03ea302a493c">
 
-- Salesforce Integrations (Outlook, Mailchimp, Website Landing Pages) | (_May 2021_)
-<img width="698" alt="Screenshot 2024-02-27 at 10 25 34" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c3449b23-b45e-4f25-ad34-669b31060486">
-<img width="399" alt="Screenshot 2024-02-27 at 10 26 00" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/78eee6ae-574e-4dce-a0dc-4793e3104f93">
-
-
+- Salesforce Integrations (Outlook, Mailchimp, Website Landing Pages) | (_ From May 2021_)
+<img width="373" alt="Screenshot 2024-02-27 at 10 31 43" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/9438505c-7144-49c6-a042-bf2c6b935511">
+<img width="609" alt="Screenshot 2024-02-27 at 10 35 08" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/6ad02d39-df38-4275-a086-eeb3dc689fea">
+<img width="410" alt="Screenshot 2024-02-27 at 10 36 29" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d0606e0e-57d7-425a-a35f-c378beff2452">
 
