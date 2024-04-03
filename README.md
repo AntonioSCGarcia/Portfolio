@@ -9,7 +9,7 @@
 <img width="768" alt="Screenshot 2024-02-26 at 03 15 38" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/aee209ab-7ca8-45b7-b00f-239d066f3222">
 "In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates.  Its dynamic filtering by 'Lead Source Description' helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data."
 
-- Salesforce Operational Dashboards for Sales Representatives | (_October 2023_)
+- Salesforce CRM Operational Dashboards for Sales Representatives | (_October 2023_)
 <img width="1428" alt="Screenshot 2024-02-26 at 02 53 30" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d7121984-9d37-4c03-8fd8-86b9ea24ca81">
 <img width="1432" alt="Screenshot 2024-02-26 at 02 57 20" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a36765b2-9729-4f19-bc16-543971cbc308">
 
@@ -21,6 +21,7 @@
 - RFM analysis and k-means clustering | Customer DB segmentation in Revenue Management | (_January 2024_)
 <img width="610" alt="Screenshot 2024-02-27 at 10 19 50" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/382ce1f5-22a1-49ae-9898-8460cc0780a4">
 <img width="407" alt="Screenshot 2024-02-26 at 03 13 58" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/10604dc3-f7a2-4206-b3b2-6bd620ff2a33">
+"This Power BI visualization utilizes a packed bubble chart to strategically segment customers within the build-to-rent (BTR) sector using the RFM (Recency, Frequency, Monetary) model. Bubble size likely reflects total resident transaction value (Monetary), while positioning along the X/Y axes indicates renewal recency and frequency. This analysis offers actionable insights by uncovering valuable customer segments and patterns within resident behavior, facilitating data-driven decision-making to optimize marketing and resident retention strategies in the BTR industry"
 
 - Data Mining and Machine Learning | Building an Ensemble Model over Facebook metrics | (_May 2023_)
   <img width="711" alt="Screenshot 2024-02-27 at 10 16 18" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/9e5bcd6d-b1ee-4faa-ba29-6ad3c2f85dab">
