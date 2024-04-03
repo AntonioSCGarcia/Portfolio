@@ -7,6 +7,7 @@
 
 - Leads Churn Prediction with Python and Power BI | (_January 2024_)
 <img width="768" alt="Screenshot 2024-02-26 at 03 15 38" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/aee209ab-7ca8-45b7-b00f-239d066f3222">
+"In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates.  Its dynamic filtering by 'Lead Source Description' helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data."
 
 - Salesforce Operational Dashboards for Sales Representatives | (_October 2023_)
 <img width="1428" alt="Screenshot 2024-02-26 at 02 53 30" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d7121984-9d37-4c03-8fd8-86b9ea24ca81">
