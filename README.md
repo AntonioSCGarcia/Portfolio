@@ -48,7 +48,7 @@
 
 #### Software Skills: Salesforce, Creative Cloud, Microsoft 365 
 
-- Salesforce Training core guidelines developed | (_September 2023_)
+- Salesforce Training core guidelines developed | ( September 2023 )
 <img width="580" alt="Screenshot 2024-02-27 at 10 00 53" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/85842b61-5473-4e19-a413-03ea302a493c">
 
 - Salesforce Integrations (Outlook, Mailchimp, Website Landing Pages) | (_ From May 2021_)
