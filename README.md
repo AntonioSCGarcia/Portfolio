@@ -26,6 +26,9 @@
 
 - Data Mining and Machine Learning | Building an Ensemble Model over Facebook metrics | (_May 2023_)
   <img width="711" alt="Screenshot 2024-02-27 at 10 16 18" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/9e5bcd6d-b1ee-4faa-ba29-6ad3c2f85dab">
+  
+"In this paper, I evaluate the performance of several well-known machine learning techniques for predicting the impact of Facebook posts. The models investigated include k-Nearest Neighbors (KNN), Support Vector Machines (SVM), Random Forest (RF), and Logistic Regression (LR).
+Social media platforms exert a significant influence on social behavior. Developing an automatic model to predict the impact of social media posts can support managers' decisions on whether to publish content, potentially enhancing engagement and reach. This analysis could be complemented with sensitivity analysis to provide further insights."
 
 - Competitor Analysis in the Built to Rent Revenue Management (_March 2021_)
 <img width="757" alt="Screenshot 2024-02-27 at 10 20 55" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/dd536f6b-2d1a-4857-9a2b-204ae2d359f8">
