@@ -48,7 +48,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 - Data Warehousing and Business Intelligence | Data-mart design with SQLite and Python (_April 2022_)
 <img width="664" alt="Screenshot 2024-02-27 at 10 27 35" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/090ba53f-9ce1-4e43-b5a0-23f7d2d06665">
 
-## Management Projects
+## PMO Projects
 
 #### Software Skills: Salesforce, Creative Cloud, Microsoft 365 
 
@@ -56,5 +56,8 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="580" alt="Screenshot 2024-02-27 at 10 00 53" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/85842b61-5473-4e19-a413-03ea302a493c">
 
 - Salesforce Integrations (Outlook, Mailchimp, Website Landing Pages) | (_ From May 2021_)
+<img width="772" alt="Screenshot 2024-05-29 at 22 36 42" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/7fb6faf2-757a-424e-8348-0f6456d3c886">
+
 <img width="921" alt="Screenshot 2024-05-29 at 22 33 46" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/f424eaba-af14-4af1-ad40-146c0e7b7576">
 
+<img width="790" alt="Screenshot 2024-05-29 at 22 36 57" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a52d30bd-5f81-408f-bfdb-a61108847449">
