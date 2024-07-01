@@ -74,10 +74,18 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 ## Salesforce Projects
 
-#### Project 1: Protect Your Data in Salesforce: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, Logging Hours.
+#### Project 1, consists of: Protect Your Data in Salesforce: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours.
+- Situation
+Bubble size likely reflects total r
+- Tasks
+  Bubble size likely reflects total r
+- Action
+Bubble size likely reflects total r
+- Results
+    Bubble size likely reflects total r
 
 
-#### Project 2: Optimize workload with Salesforce Flows: Tak's automation, Flow Builder, and Lists Views.  
+#### Project 2, consists of: Optimize workload with Salesforce Flows: Tak's automation, Flow Builder, and Lists Views.  
 
 
 
