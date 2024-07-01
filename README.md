@@ -64,11 +64,11 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 
 
-|  Data Science Projects  | Domains | Features |
+|  Data Science Projects  
 | ------------- | ------------- |------------- |
-| Salesforce  | D | Lead-Assignment rules, Profiles, Sharing Rules |
-| Python & Power BI | Machinne Learning |
-| Python & Excel | Content Cell  | 
+| 1 | Competitor Analysis | (_July 2024_) |
+| 2 | Costumer Segmentation | (_June 2024_)|
+| 3 | Data Visualization  | (_January 2024_)|
 
 
 
