@@ -77,8 +77,11 @@ Social media platforms exert a significant influence on social behavior. Develop
 #### Project 1, consists of: Protect Your Data in Salesforce: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours.
 - Situation
   
-> Text that is a quote Bubble size likely reflects total r
-> `#ffffffgdsgshshss`
+  _> Text that is a quote Bubble size likely reflects total r
+  
+<img width="610" alt="Screenshot 2024-02-27 at 10 19 50" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/382ce1f5-22a1-49ae-9898-8460cc0780a4">
+
+  _> `This is the photo description `
 
 - Tasks
   
