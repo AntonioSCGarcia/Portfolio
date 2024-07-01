@@ -110,27 +110,34 @@ Social media platforms exert a significant influence on social behavior. Develop
       
 - [X] Results
 
-  The implementation of assignment rules, list views, and custom web fields resulted in a significant improvement in lead management efficiency. Teams could now receive and access leads automatically and in real-time, reducing the time spent on manual assignments. This approach also encouraged sales executives to own their pipeline as their teams only received suitable, pre-categorized leads.
+  The implementation of assignment rules, list views, and custom web fields resulted in a significant improvement in lead management efficiency. Teams could now receive and access leads automatically and in real time, reducing the time spent on manual assignments. This approach also encouraged sales executives to own their pipeline as their teams only received suitable, pre-categorized leads.
 
 
   <img width="406" alt="Screenshot 2024-07-02 at 00 13 27" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/ecee4c23-fe65-4a0a-87b3-30ddd5a9b285">
 
 
-#### Project 2, consists of: Protect Your Data in Salesforce: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours.
+#### How to leverage Einstein Activity Capture (EAC) and custom formula fields to count email interactions and enhance lead engagement.
+
 - [X] Situation
       
-  The sales team relied heavily on a single info email address, making it difficult to track email interactions for each lead and executive pipeline. With raw data available (e.g., India leads), there was a need to implement a system to count and track email interactions more effectively.
+  The sales team relied heavily on a single info@email address, a shortcut to track email interactions for all team members at once. However, the individual reps. engagement and the expiration of the Outlook Salesforce add-on markets this organization obsolete. With raw data available from EAC, there was a need to implement a system to count and track email interactions more effectively.
+
+- [X] Task
+
+Crack the Einstein Activity metrics capture and master the visualization of email interaction per pipeline. Also, evaluate how shifting from using the info@email address to individual executive emails would challenge the business processes.
+
+- [X] Action
+
+Using Salesforce’s Object Manager, I created custom formula fields to count email interactions for each lead. I integrated Einstein Activity Capture to track and analyze the raw data 
+
+
+- [X] Results
 
 
 
 
 
-  _> `This is the photo description `
-- [ ] Situation
-- [ ] gggg
-- [X] gggg
-- [X] jjk
-- [ ] 
+
 
 
 
