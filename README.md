@@ -76,11 +76,15 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 #### Project 1, consists of: Protect Your Data in Salesforce: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours.
 - Situation
+  
 Bubble size likely reflects total r
+
 - Tasks
   Bubble size likely reflects total r
+  
 - Action
 Bubble size likely reflects total r
+
 - Results
     Bubble size likely reflects total r
 
