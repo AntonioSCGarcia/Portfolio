@@ -80,12 +80,15 @@ Social media platforms exert a significant influence on social behavior. Develop
 Bubble size likely reflects total r
 
 - Tasks
-  Bubble size likely reflects total r
+  
+  Bubble sie likely reflects total r
   
 - Action
+  
 Bubble size likely reflects total r
 
 - Results
+  
     Bubble size likely reflects total r
 
 
