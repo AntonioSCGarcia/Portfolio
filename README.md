@@ -9,12 +9,10 @@
 - RFM analysis and k-means clustering | Customer DB segmentation in Revenue Management | (_January 2024_)
 <img width="610" alt="Screenshot 2024-02-27 at 10 19 50" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/382ce1f5-22a1-49ae-9898-8460cc0780a4">
 <img width="407" alt="Screenshot 2024-02-26 at 03 13 58" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/10604dc3-f7a2-4206-b3b2-6bd620ff2a33">
-
 "This Power BI visualization utilizes a packed bubble chart to strategically segment customers within the build-to-rent (BTR) sector using the RFM (Recency, Frequency, Monetary) model. Bubble size likely reflects total resident transaction value (Monetary), while positioning along the X/Y axes indicates renewal recency and frequency. This analysis offers actionable insights by uncovering valuable customer segments and patterns within resident behavior, facilitating data-driven decision-making to optimize marketing and resident retention strategies in the BTR industry"
 
 - Data Mining and Machine Learning | Building an Ensemble Model over Facebook metrics | (_May 2023_)
   <img width="711" alt="Screenshot 2024-02-27 at 10 16 18" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/9e5bcd6d-b1ee-4faa-ba29-6ad3c2f85dab">
-  
 "In this paper, I evaluate the performance of several well-known machine learning techniques for predicting the impact of Facebook posts. The models investigated include k-Nearest Neighbors (KNN), Support Vector Machines (SVM), Random Forest (RF), and Logistic Regression (LR).
 Social media platforms exert a significant influence on social behavior. Developing an automatic model to predict the impact of social media posts can support managers' decisions on whether to publish content, potentially enhancing engagement and reach. This analysis could be complemented with sensitivity analysis to provide further insights."
 
@@ -61,3 +59,33 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="921" alt="Screenshot 2024-05-29 at 22 33 46" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/f424eaba-af14-4af1-ad40-146c0e7b7576">
 
 <img width="790" alt="Screenshot 2024-05-29 at 22 36 57" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a52d30bd-5f81-408f-bfdb-a61108847449">
+
+
+
+
+
+
+
+# Technical Background 
+
+
+
+## Salesforce Projects
+
+#### Project 1: Protect Your Data in Salesforce: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, Logging Hours.
+
+
+#### Project 2: Optimize workload with Salesforce Flows: Tak's automation, Flow Builder, and Lists Views.  
+
+
+
+
+
+
+
+
+
+
+
+
+
