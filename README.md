@@ -66,8 +66,8 @@ Social media platforms exert a significant influence on social behavior. Develop
 |  Updated Content 
 | ------------- | ------------- |------------- |
 | 1 | Competitor Analysis | Lead-Assignment rules, Sharing Rules             | (_July 2024_)
-| 2| Costumer Segmentation | Logging Hours, Lead rules, Rules                  | (_June 2024_)
-| 3 | Data Visualization  | Profiles, Sharing Rules, Public Groups             |(_June 2024_)
+| 2 | Einstein Activity Capture | Email unified metrics, Dasboarding         | (_June 2024_)
+| 3 | Auto-response and  | Profiles, Sharing Rules, Public Groups           |(_June 2024_)
 
 
 
@@ -84,33 +84,36 @@ Social media platforms exert a significant influence on social behavior. Develop
 # Salesforce Projects
 
 
-|  Updated Content 
+|  Challenges Achieved 
 | ------------- | ------------- |------------- |
-| 1 | Competitor Analysis | Lead-Assignment rules, Sharing Rules             | (_July 2024_)
-| 2| Costumer Segmentation | Logging Hours, Lead rules, Rules                  | (_June 2024_)
-| 3 | Data Visualization  | Profiles, Sharing Rules, Public Groups             |(_June 2024_)
+| 1 | Setup & Configuration | Lead-Assignment rules, Escalation rules             | (_July 2024_)
+| 2 | Einstein Activity Capture | Email unified metrics, Dasboarding              | (_June 2024_)
+| 3 | Auto-reponse Email & Field updates | Flow, Messaging Templates              | (_May 2024_)
 
 
-## 1. Data Security Model: Protect Your Data in Salesforce
+## 1. Configuring a Secure Stream of Leads
 
-#### " summary sentence This project consists of: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours."
+#### " How to secure your organization by managing and protecting what leads your users have access to"
 - [X] Situation
-  
-  In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates. Its dynamic filtering by ‘Lead Source Description’ helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data.
+
+  A hotel company is dealing with Web-to-Lead forms, where the information is mapped from the website enquiry fields (HTML form) to a single list view of the Lead object in Salesforce. Frequent staff rotation and the distance between property locations made it difficult to fairly assign leads to sales reps, resulting in leads being contacted by several agents in the same week and neglecting SLAs.
 
 - [X] Task
 
-  In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates. Its dynamic filtering by ‘Lead Source Description’ helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data.
+  The challenge was to build a solution that automatically assigns and distributes leads from various sources (emails, web pages, calls, etc.) and restricts access to specific list views for each team. This also involved simplifying the user interface and instructing the team on how to access relevant data.
+
       
 - [X] Action
 
-  In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates. Its dynamic filtering by ‘Lead Source Description’ helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data.
+  Using Salesforce’s Object Manager and Lightning App Builder, I designed the Web-to-Lead form to map new information, allowing categorization of lead locations and accurate capture of lead information. I then configured assignment rules to allocate the leads to the appropriate teams based on predefined criteria such as source and location. Additionally, I customized the Lightning App to streamline tab access and list views, ensuring each team could easily access only the leads relevant to their specific hotel location. I also configured escalation rules and urgent queues to handle neglected leads promptly. Security settings were configured to maintain record view/edit access for specific roles high up in the hierarchy. 
+
       
 - [X] Results
 
-  In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates. Its dynamic filtering by ‘Lead Source Description’ helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data.
+  The implementation of assignment rules, list views, and custom web fields resulted in a significant improvement in lead management efficiency. Teams could now receive and access leads automatically and in real-time, reducing the time spent on manual assignments. This approach also encouraged sales executives to own their pipeline as their teams only received suitable, pre-categorized leads.
 
-<img width="504" alt="Screenshot 2024-07-01 at 19 24 05" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/9d267538-0a07-4d3a-b05b-1d932cdc5053">
+<img width="224" alt="image" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/c4ebd3b1-417f-4860-b578-b68335a5fbc8">
+
 
 
 #### Project 1, consists of: Protect Your Data in Salesforce: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours.
