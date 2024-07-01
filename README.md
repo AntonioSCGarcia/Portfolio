@@ -68,13 +68,13 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 
 
-# Technical Background 
+# Salesforce Projects
 
 
 
-## Salesforce Projects
+## 1. Data Security Model: Protect Your Data in Salesforce
 
-#### Project 1, consists of: Protect Your Data in Salesforce: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours.
+#### This project consists of: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours.
 - [X] Situation
   
   In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates. Its dynamic filtering by ‘Lead Source Description’ helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data.
