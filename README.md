@@ -63,23 +63,6 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="790" alt="Screenshot 2024-05-29 at 22 36 57" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a52d30bd-5f81-408f-bfdb-a61108847449">
 
 
-|  Updated Content 
-| ------------- | ------------- |------------- |
-| 1 | Competitor Analysis | Lead-Assignment rules, Sharing Rules             | (_July 2024_)
-| 2 | Einstein Activity Capture | Email unified metrics, Dasboarding         | (_June 2024_)
-| 3 | Auto-response and  | Profiles, Sharing Rules, Public Groups           |(_June 2024_)
-
-
-
-
-|  Salesforce Projects  | Domains | Features |
-| ------------- | ------------- |------------- |
-| Sales Cloud | Process Automation | Lead-Assignment rules, Sharing Rules |
-| Sales Cloud | Security Configuration |Logging Hours|
-| Sales Cloud | Add-on integrations | Profiles flows|
-
-
-
 
 # Salesforce Projects
 
@@ -133,55 +116,5 @@ Using Salesforce’s Object Manager, I created custom formula fields to count em
 
 - [X] Results
 
-
-
-
-
-
-
-
-
-- Tasks
-  
-  Bubble sie likely reflects total r
-  
-- Action
-  
-Bubble size likely reflects total r
-
-- Results
-  
-    Bubble size likely reflects total r
-
-
-#### Project 2, consists of: Optimize workload with Salesforce Flows: Tak's automation, Flow Builder, and Lists Views.  
-
-
-
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-
-
-
-
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
