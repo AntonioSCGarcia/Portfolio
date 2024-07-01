@@ -64,11 +64,10 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 
 
-|  Updated Content 
 | ------------- | ------------- |------------- |
-| 1 (_July 2024_)| Competitor Analysis | Lead-Assignment rules, Sharing Rules |
-| 2 (_June 2024_)| Costumer Segmentation | Logging Hours, Lead rules, Rules|
-| 3 (_January 2024_)| Data Visualization  | Profiles, Sharing Rules, Public Groups |
+| 1 | Competitor Analysis | Lead-Assignment rules, Sharing Rules             | (_July 2024_)
+| 2| Costumer Segmentation | Logging Hours, Lead rules, Rules                  | (_June 2024_)
+| 3 | Data Visualization  | Profiles, Sharing Rules, Public Groups             |(_June 2024_)
 
 
 
