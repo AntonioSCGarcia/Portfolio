@@ -63,7 +63,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="790" alt="Screenshot 2024-05-29 at 22 36 57" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a52d30bd-5f81-408f-bfdb-a61108847449">
 
 
-
+|  Updated Content 
 | ------------- | ------------- |------------- |
 | 1 | Competitor Analysis | Lead-Assignment rules, Sharing Rules             | (_July 2024_)
 | 2| Costumer Segmentation | Logging Hours, Lead rules, Rules                  | (_June 2024_)
@@ -83,11 +83,13 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 # Salesforce Projects
 
+
 |  Updated Content 
 | ------------- | ------------- |------------- |
-| 1 (_July 2024_)| Competitor Analysis | Lead-Assignment rules, Sharing Rules |
-| 2 (_June 2024_)| Costumer Segmentation | Logging Hours, Lead rules, Rules|
-| 3 (_January 2024_)| Data Visualization  | Profiles, Sharing Rules, Public Groups |
+| 1 | Competitor Analysis | Lead-Assignment rules, Sharing Rules             | (_July 2024_)
+| 2| Costumer Segmentation | Logging Hours, Lead rules, Rules                  | (_June 2024_)
+| 3 | Data Visualization  | Profiles, Sharing Rules, Public Groups             |(_June 2024_)
+
 
 ## 1. Data Security Model: Protect Your Data in Salesforce
 
