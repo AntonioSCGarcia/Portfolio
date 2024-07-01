@@ -64,11 +64,11 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 
 
-|  Data Science Projects  
+|  Updated Content 
 | ------------- | ------------- |------------- |
-| 1 | Competitor Analysis | (_July 2024_) |
-| 2 | Costumer Segmentation | (_June 2024_)|
-| 3 | Data Visualization  | (_January 2024_)|
+| 1 (_July 2024_)| Competitor Analysis | Lead-Assignment rules, Sharing Rules |
+| 2 (_June 2024_)| Costumer Segmentation | Logging Hours, Lead rules, Rules|
+| 3 (_January 2024_)| Data Visualization  | Profiles, Sharing Rules, Public Groups |
 
 
 
@@ -84,11 +84,15 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 # Salesforce Projects
 
-
+|  Updated Content 
+| ------------- | ------------- |------------- |
+| 1 (_July 2024_)| Competitor Analysis | Lead-Assignment rules, Sharing Rules |
+| 2 (_June 2024_)| Costumer Segmentation | Logging Hours, Lead rules, Rules|
+| 3 (_January 2024_)| Data Visualization  | Profiles, Sharing Rules, Public Groups |
 
 ## 1. Data Security Model: Protect Your Data in Salesforce
 
-#### This project consists of: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours.
+#### " summary sentence This project consists of: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours."
 - [X] Situation
   
   In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates. Its dynamic filtering by ‘Lead Source Description’ helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data.
