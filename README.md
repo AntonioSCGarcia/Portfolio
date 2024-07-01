@@ -84,8 +84,8 @@ Social media platforms exert a significant influence on social behavior. Develop
   _> `This is the photo description `
 - [ ] Situation
 - [ ] gggg
-- [ ] gggg
-- [ ] jjk
+- [X] gggg
+- [X] jjk
 - [ ] 
 
 
