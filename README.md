@@ -75,11 +75,30 @@ Social media platforms exert a significant influence on social behavior. Develop
 ## Salesforce Projects
 
 #### Project 1, consists of: Protect Your Data in Salesforce: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours.
-- Situation
+- [X] Situation
   
-  _> Text that is a quote Bubble size likely reflects total r
-  
-<img width="610" alt="Screenshot 2024-02-27 at 10 19 50" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/382ce1f5-22a1-49ae-9898-8460cc0780a4">
+  In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates. Its dynamic filtering by ‘Lead Source Description’ helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data.
+
+- [X] Task
+        In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates. Its dynamic filtering by ‘Lead Source Description’ helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data.
+      
+- [X] Action
+        In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates. Its dynamic filtering by ‘Lead Source Description’ helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data.
+      
+- [X] Results
+
+In Power BI, the MAQ Software-powered funnel visualization seamlessly integrates Salesforce data and a churn prediction model. This visual depicts lead volume and projected churn rate in relation to email interactions (Lead Outreach Cadence) revealing that deeper engagement correlates with higher conversion rates. Its dynamic filtering by ‘Lead Source Description’ helps pinpoint bottlenecks in the sales process and evaluate the effectiveness of specific lead generation tactics. Overall, this visualization facilitates lead churn prediction, KPI analysis influenced by a random forest classifier, and machine learning model training for enhanced lead conversion inference on unseen data.
+
+<img width="504" alt="Screenshot 2024-07-01 at 19 24 05" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/9d267538-0a07-4d3a-b05b-1d932cdc5053">
+
+
+#### Project 1, consists of: Protect Your Data in Salesforce: Lead-Assignment rules, Profiles, Sharing Rules, Public Groups, and Logging Hours.
+- [X] Situation
+
+
+
+
+
 
   _> `This is the photo description `
 - [ ] Situation
