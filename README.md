@@ -82,6 +82,13 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="610" alt="Screenshot 2024-02-27 at 10 19 50" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/382ce1f5-22a1-49ae-9898-8460cc0780a4">
 
   _> `This is the photo description `
+- [ ] Situation
+- [ ] gggg
+- [ ] gggg
+- [ ] jjk
+- [ ] 
+
+
 
 - Tasks
   
@@ -101,12 +108,29 @@ Bubble size likely reflects total r
 
 
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 
 
 
 
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
