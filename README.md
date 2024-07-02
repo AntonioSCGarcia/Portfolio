@@ -83,12 +83,12 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 - [X] Task
 
-  The challenge was to build a solution that automatically assigns and distributes leads from various sources (emails, web pages, calls, etc.) and restricts access to specific list views for each team. This also involved simplifying the user interface and instructing the team on how to access relevant data.
+  The challenge was to build a solution that automatically assigns and distributes leads from various sources (emails, web pages, calls, etc.) and restricts access to specific list views for each team. This also involved simplifying the user interface and instructing the team to access relevant data.
 
       
 - [X] Action
 
-  Using Salesforce’s Object Manager and Lightning App Builder, I designed the Web-to-Lead form to map new information, allowing categorization of lead locations and accurate capture of lead information. I then configured assignment rules to allocate the leads to the appropriate teams based on predefined criteria such as source and location. Additionally, I customized the Lightning App to streamline tab access and list views, ensuring each team could easily access only the leads relevant to their specific hotel location. I also configured escalation rules and urgent queues to handle neglected leads promptly. Security settings were configured to maintain record view/edit access for specific roles high up in the hierarchy. 
+  Using Salesforce’s Object Manager and Lightning App Builder, I designed the Web-to-Lead form to map new information, allowing categorization of lead locations and accurate capture of lead information. I then configured assignment rules to allocate the leads to the appropriate teams based on predefined criteria such as source and location. Additionally, I customized the Lightning App to streamline tab access and list views, ensuring each team could easily access only the leads relevant to their specific hotel location. I also configured escalation rules and urgent queues to handle neglected leads promptly. Security settings were configured to maintain record view/edit access for specific roles high in the hierarchy. 
 
       
 - [X] Results
@@ -107,14 +107,14 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 - [X] Task
 
-Crack the Einstein Activity metrics capture and master the visualization of email interaction per pipeline. Also, evaluate how shifting from using the info@email address to individual executive emails would challenge the business processes.
+  Crack the Einstein Activity metrics capture and master the visualization of email interaction per pipeline. Also, evaluate how shifting from using the info@email address to individual executive emails would challenge the business processes.
 
 - [X] Action
 
-Using Salesforce’s Object Manager, I created custom formula fields to count email interactions for each lead. I integrated Einstein Activity Capture to track and analyze the raw data 
-
+  Using Salesforce’s Object Manager, I created custom formula fields to count email interactions for each lead. Enabling the Einstein Analytics in settings, I can materialise these metrics in Custom Reports, therefore populate the formula fields and showcase the metrics and email engagement distribution charts across dashboards. 
 
 - [X] Results
+  Sales representatives can now see detailed interaction metrics for each lead (formula fields) and can monitor the engagement of their pipeline (dashboard). 
 
 
 
