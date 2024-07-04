@@ -67,11 +67,11 @@ Social media platforms exert a significant influence on social behavior. Develop
 # Salesforce Projects
 
 
-|  Challenges Achieved 
+|  Latest Challenges Achieved 
 | ------------- | ------------- |------------- |
-| 1 | Setup & Configuration | Lead-Assignment rules, Escalation rules             | (_July 2024_)
+| 1 | Setup & Configuration | Lead-Assignment rules, Escalation rules             | (_May 2024_)
 | 2 | Einstein Activity Capture | Email unified metrics, Dasboarding              | (_June 2024_)
-| 3 | Auto-reponse Email & Field updates | Flow, Messaging Templates              | (_May 2024_)
+| 3 | Auto-reponse Email & Field updates | Flow, Messaging Templates              | (_July 2024_)
 
 
 ## 1. Configuring a Secure Stream of Leads
