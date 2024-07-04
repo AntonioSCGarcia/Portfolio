@@ -57,9 +57,6 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 - Salesforce Integrations (Outlook, Mailchimp, Website Landing Pages) | (_ From May 2021_)
 <img width="772" alt="Screenshot 2024-05-29 at 22 36 42" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/7fb6faf2-757a-424e-8348-0f6456d3c886">
-
-<img width="921" alt="Screenshot 2024-05-29 at 22 33 46" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/f424eaba-af14-4af1-ad40-146c0e7b7576">
-
 <img width="790" alt="Screenshot 2024-05-29 at 22 36 57" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a52d30bd-5f81-408f-bfdb-a61108847449">
 
 
@@ -116,5 +113,6 @@ Social media platforms exert a significant influence on social behavior. Develop
 - [X] Results
   Sales representatives can now see detailed interaction metrics for each lead (formula fields) and can monitor the engagement of their pipeline (dashboard). 
 
+  <img width="921" alt="Screenshot 2024-05-29 at 22 33 46" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/f424eaba-af14-4af1-ad40-146c0e7b7576">
 
 
