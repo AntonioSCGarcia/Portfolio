@@ -10,7 +10,7 @@
 <img width="610" alt="Screenshot 2024-02-27 at 10 19 50" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/382ce1f5-22a1-49ae-9898-8460cc0780a4">
 <img width="407" alt="Screenshot 2024-02-26 at 03 13 58" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/10604dc3-f7a2-4206-b3b2-6bd620ff2a33">
 
-"This Power BI visualization utilizes a packed bubble chart to strategically segment customers within the build-to-rent (BTR) sector using the RFM (Recency, Frequency, Monetary) model.
+  "This Power BI visualization utilizes a packed bubble chart to strategically segment customers within the build-to-rent (BTR) sector using the RFM (Recency, Frequency, Monetary) model.
 Bubble size likely reflects total resident transaction value (Monetary), while positioning along the X/Y axes indicates renewal recency and frequency. This analysis offers actionable insights by uncovering valuable customer segments and patterns within resident behavior, facilitating data-driven decision-making to optimize marketing and resident retention strategies in the BTR industry"
 
 - Data Mining and Machine Learning | Building an Ensemble Model over Facebook metrics | (_May 2023_)
