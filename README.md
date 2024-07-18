@@ -85,12 +85,13 @@ Social media platforms exert a significant influence on social behavior. Develop
       
 - [X] Action
 
-  Using Salesforce’s Object Manager and Lightning App Builder, I designed the Web-to-Lead form to map new information, allowing categorization of lead locations and accurate capture of lead information. I then configured assignment rules to allocate the leads to the appropriate teams based on predefined criteria such as source and location. Additionally, I customized the Lightning App to streamline tab access and list views, ensuring each team could easily access only the leads relevant to their specific hotel location. I also configured escalation rules and urgent queues to handle neglected leads promptly. Security settings were configured to maintain record view/edit access for specific roles high in the hierarchy. 
+  Using Salesforce’s Object Manager and Lightning App Builder, I designed the Web-to-Lead form to map new information, using Territory Management allows the categorization of lead locations and accurate capture of lead information. I then configured assignment rules to allocate the leads to the appropriate teams based on predefined criteria such as source and location. Additionally, I customized the Lightning App to streamline tab access and list views, ensuring each team could easily access only the leads relevant to their specific hotel location. I also configured escalation rules and urgent queues to handle neglected leads promptly. Security settings were configured to maintain record view/edit access for specific roles high in the hierarchy. 
 
       
 - [X] Results
 
-  The implementation of assignment rules, list views, and custom web fields resulted in a significant improvement in lead management efficiency. Teams could now receive and access leads automatically and in real time, reducing the time spent on manual assignments. This approach also encouraged sales executives to own their pipeline as their teams only received suitable, pre-categorized leads.
+  The implementation of assignment rules, list views, and custom web fields resulted in a significant improvement in lead management efficiency. The Territory Management
+      by business property now enhances forecasting accuracy, and teams can now receive and access leads automatically and in real time, reducing the time spent on manual assignments. This approach also encouraged sales executives to own their pipeline as their teams only received suitable, pre-categorized leads.
 
 
   <img width="406" alt="Screenshot 2024-07-02 at 00 13 27" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/ecee4c23-fe65-4a0a-87b3-30ddd5a9b285">
