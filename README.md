@@ -72,8 +72,9 @@ Social media platforms exert a significant influence on social behavior. Develop
 |  Latest Challenges Achieved 
 | ------------- | ------------- |------------- |
 | 1 | Territorial management | Lead-Assignment rules, Escalation rules             | (_May 2024_)
-| 2 | Email to Case + EAC | Email unified metrics, Dasboarding              | (_June 2024_)
+| 2 | Email to Case + EAC | Email unified metrics, Flow, Dasboarding              | (_June 2024_)
 | 3 | Auto-reponse Email & Field updates | Flow, Messaging Templates              | (_July 2024_)
+| 4 | Call Scripting & Data Capture | Flow, In-app guidance                        | (_Aug 2024_)
 
 
 
@@ -126,7 +127,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 - [X] Situation
 
- The sales team was manually replying to web inquiries, which wasted time in those cases where the lead was unresponsive and led to inconsistent communication. There was a need to save time on presales but ensure timely replies, also the lead status could be reflected more accurately as it moved through the sales funnel. The goal was to streamline communication with potential leads while automating key status updates based on the responses received.
+  The sales team was manually replying to web inquiries, which wasted time in those cases where the lead was unresponsive and led to inconsistent communication. There was a need to     save time on presales but ensure timely replies, also the lead status could be reflected more accurately as it moved through the sales funnel. The goal was to streamline communication with potential leads while automating key status updates based on the responses received.
 
 - [X] Task
 
@@ -143,3 +144,24 @@ Social media platforms exert a significant influence on social behavior. Develop
   The sales team now benefits from an automated, hands-off approach to initial lead communications. This automation has significantly improved response times and accuracy of the pipeline stages, ensuring no web inquiry is left unattended, and allowed sales representatives to focus only on hot leads.
 
 
+#### 4. How to implement a screen flow for guided data capture during sales calls
+
+- [X] Situation
+      
+  In the call center, new sales representatives often struggled to maintain consistent conversations during phone calls, leading to missed data entries and inconsistent customer experiences. There was a need to introduce a solution that would help guide representatives through their calls while ensuring all relevant data was captured accurately and efficiently.
+
+- [X] Task
+
+  By my own initiative, I propose developing a screen flow in Salesforce that could serve two key purposes: helping sales reps follow a structured conversation during calls and ensuring that they record the necessary information in Salesforce. The flow needed to be intuitive, adaptable to various call scenarios, and flexible enough to guide both experienced reps and new hires.
+
+- [X] Action
+
+  I built a multi-step screen flow in Salesforce using Flow Builder, which guided the sales reps through each stage of a customer call. The flow incorporated dynamic prompts based on customer responses, helping reps navigate through the conversation with ease. At each stage, the flow provided a baseline script (keywords) for what to say, ensuring that the conversation stayed on track. Additionally, the flow required the reps to input key data points (such as customer feedback, product interests, and follow-up details) at the appropriate moments, preventing data gaps (including validation rules with error messages). I also incorporated decision branches so the flow could adapt to different scenarios based on the customer's responses, such as interest level or objections.
+
+- [X] Results
+      
+  New sales representatives are now able to follow a more controlled and consistent script during phone calls, which has improved customer interactions and increased data accuracy. The guided flow has reduced training time for new hires, allowing them to quickly become proficient in managing calls. The structured approach has also led to better overall customer satisfaction and more accurate data collection, giving management more reliable insights into call performance and outcomes.
+
+<img width="427" alt="Screenshot 2024-10-01 at 00 48 58" src="https://github.com/user-attachments/assets/2b89b3d7-bb97-4d4c-b630-794080357469">
+
+ 
