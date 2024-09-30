@@ -60,7 +60,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 - Salesforce Training core guidelines developed | ( September 2023 )
 <img width="580" alt="Screenshot 2024-02-27 at 10 00 53" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/85842b61-5473-4e19-a413-03ea302a493c">
 
-- Salesforce Integrations (Outlook, Mailchimp, Website Landing Pages) | (_ From May 2021_)
+- Salesforce Integrations (Outlook, Mailchimp, Web to Lead HTML forms) | (_ From May 2021_)
 <img width="772" alt="Screenshot 2024-05-29 at 22 36 42" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/7fb6faf2-757a-424e-8348-0f6456d3c886">
 <img width="790" alt="Screenshot 2024-05-29 at 22 36 57" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a52d30bd-5f81-408f-bfdb-a61108847449">
 
