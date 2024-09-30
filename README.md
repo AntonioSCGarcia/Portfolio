@@ -39,15 +39,18 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="1432" alt="Screenshot 2024-02-26 at 02 57 20" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a36765b2-9729-4f19-bc16-543971cbc308">
 
 
-## Research Projects
+## Out of the Box Projects
 
 #### Software Skills: Python (selenium, Beautiful Soup), SQLite, Excel
 - Price Web Scraping |Competitor Market Analysis | (_January 2024_)
+
 "Developed a scraping automation model (using Python and Power BI) to optimize competitor analysis research time (from 8 hours to less than 10 minutes) and transformed raw data into compelling real-time dashboards. This was one of the projects that substantially improved the reporting foundation in the organization and advanced insights for senior stakeholders"
 <img width="371" alt="Screenshot 2024-02-26 at 02 58 34" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/5c972891-e57b-40a6-a6f6-6e4eda2dbfcf">
 
 - Data Warehousing and Business Intelligence | Data-mart design with SQLite and Python (_April 2022_)
 <img width="664" alt="Screenshot 2024-02-27 at 10 27 35" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/090ba53f-9ce1-4e43-b5a0-23f7d2d06665">
+
+"This data mart was designed to support customer segmentation, enabling targeted marketing email campaigns. By integrating customer, product, and invoice data, the model allowed management to satisfy complex queries regarding customer behavior and purchase patterns quickly. The segmentation was used to enhance the effectiveness of marketing strategies and personalize communication efforts."
 
 ## PMO Projects
 
