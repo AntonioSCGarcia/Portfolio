@@ -99,7 +99,7 @@ Social media platforms exert a significant influence on social behavior. Develop
       by business property now enhances forecasting accuracy, and teams can now receive and access leads automatically and in real time, reducing the time spent on manual assignments. This approach also encouraged sales executives to own their pipeline as their teams only received suitable, pre-categorized leads.
 
 
-  <img width="406" alt="Screenshot 2024-07-02 at 00 13 27" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/ecee4c23-fe65-4a0a-87b3-30ddd5a9b285">
+  <img width="437" alt="Screenshot 2024-09-30 at 23 50 08" src="https://github.com/user-attachments/assets/16a773d8-29b0-4117-9ec0-0d080d8b6e58">
 
 
 #### How to leverage Einstein Activity Capture (EAC) and custom formula fields to count email interactions and enhance lead engagement.
