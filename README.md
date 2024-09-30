@@ -4,7 +4,7 @@
 
 ## Marketing Projects
 
-#### Software Skills: Python, SQLite, Excel
+#### Software Skills: Power BI, Python, SQLite, Excel
 
 - RFM analysis and k-means clustering | Customer DB segmentation in Revenue Management | (_January 2024_)
 <img width="610" alt="Screenshot 2024-02-27 at 10 19 50" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/382ce1f5-22a1-49ae-9898-8460cc0780a4">
