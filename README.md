@@ -76,9 +76,8 @@ Social media platforms exert a significant influence on social behavior. Develop
 | 3 | Auto-reponse Email & Field updates | Flow, Messaging Templates              | (_July 2024_)
 
 
-## 1. Configuring a Secure Stream of Leads
 
-#### " How to secure your organization by managing and protecting what leads your users have access to"
+#### 1. Configuring a Secure Stream of Leads: How to secure your organization by managing and protecting what leads your users have access to
 - [X] Situation
 
   A hotel company is dealing with Web-to-Lead forms, where the information is mapped from the website enquiry fields (HTML form) to a single list view of the Lead object in Salesforce. Frequent staff rotation and the distance between property locations made it difficult to fairly assign leads to sales reps, resulting in leads being contacted by several agents in the same week and neglecting SLAs.
@@ -102,7 +101,7 @@ Social media platforms exert a significant influence on social behavior. Develop
   <img width="437" alt="Screenshot 2024-09-30 at 23 50 08" src="https://github.com/user-attachments/assets/16a773d8-29b0-4117-9ec0-0d080d8b6e58">
 
 
-#### How to leverage Email to Case, Einstein Activity Capture (EAC) and custom fields to obtain email engagement metrics between leads and SF users.
+#### 2. How to leverage Email to Case, Einstein Activity Capture (EAC) and custom fields to obtain email engagement metrics between leads and SF users.
 
 - [X] Situation
       
@@ -121,4 +120,26 @@ Social media platforms exert a significant influence on social behavior. Develop
  
   <img width="678" alt="Screenshot 2024-09-30 at 23 51 36" src="https://github.com/user-attachments/assets/a422ce6f-71de-488e-9476-5542be5e0913">
   <img width="921" alt="Screenshot 2024-05-29 at 22 33 46" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/f424eaba-af14-4af1-ad40-146c0e7b7576">
+
+
+#### 3. How to automate lead responses and field updates with auto-response emails
+
+- [X] Situation
+
+ The sales team was manually replying to web inquiries, which wasted time in those cases where the lead was unresponsive and led to inconsistent communication. There was a need to save time on presales but ensure timely replies, also the lead status could be reflected more accurately as it moved through the sales funnel. The goal was to streamline communication with potential leads while automating key status updates based on the responses received.
+
+- [X] Task
+
+  To implement a pre-defined email template as the first communication attempt. This flow should automatically continue sending follow-up templates until the lead replies. When the lead responds, the system should update the Lead status and several standard and custom fields to reflect the lead’s progression in the sales cycle ("such as last communication date").
+
+      
+- [X] Action
+
+  Using Salesforce's Flow Builder and Auto-reply Email Templates, I set up a record trigger flow chain that starts with an initial auto-response email to web inquiries. The system then schedules a series of follow-up emails that are automatically sent until the lead replies. Once a response is received, the prospect is considered to be a hot lead, and the status is updated from "Attempt" to "Working", and additional related fields—such as number of attempts or time response are also updated automatically.
+
+      
+- [X] Results
+
+  The sales team now benefits from an automated, hands-off approach to initial lead communications. This automation has significantly improved response times and accuracy of the pipeline stages, ensuring no web inquiry is left unattended, and allowed sales representatives to focus only on hot leads.
+
 
