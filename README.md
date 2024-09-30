@@ -71,8 +71,8 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 |  Latest Challenges Achieved 
 | ------------- | ------------- |------------- |
-| 1 | Setup & Configuration | Lead-Assignment rules, Escalation rules             | (_May 2024_)
-| 2 | Einstein Activity Capture | Email unified metrics, Dasboarding              | (_June 2024_)
+| 1 | Territorial management | Lead-Assignment rules, Escalation rules             | (_May 2024_)
+| 2 | Email to Case + EAC | Email unified metrics, Dasboarding              | (_June 2024_)
 | 3 | Auto-reponse Email & Field updates | Flow, Messaging Templates              | (_July 2024_)
 
 
@@ -102,7 +102,7 @@ Social media platforms exert a significant influence on social behavior. Develop
   <img width="437" alt="Screenshot 2024-09-30 at 23 50 08" src="https://github.com/user-attachments/assets/16a773d8-29b0-4117-9ec0-0d080d8b6e58">
 
 
-#### How to leverage Email to Case and Einstein Activity Capture (EAC) and custom fields to obtain email engagement metrics between leads and SF users.
+#### How to leverage Email to Case, Einstein Activity Capture (EAC) and custom fields to obtain email engagement metrics between leads and SF users.
 
 - [X] Situation
       
