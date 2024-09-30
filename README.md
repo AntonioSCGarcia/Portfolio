@@ -23,6 +23,9 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="434" alt="Screenshot 2024-02-27 at 10 21 15" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/ab268140-272f-4c4e-811a-864880d1b670">
   
 - Data Visualization & Dashboarding | Where in the UK are the best job opportunities for the millennial generation (_May 2023_)
+
+"This project explores regional job opportunities for millennials across the UK using data visualization and dashboarding tools. Through historical trends and demographic insights, the analysis identifies regions with the most promising job markets. The visualizations help pinpoint areas of growth and population density, providing actionable insights for policymakers and job seekers."
+
 <img width="507" alt="Screenshot 2024-02-27 at 10 24 11" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/5ab86d35-4930-4c16-8fc6-953149054576">
 <img width="703" alt="Screenshot 2024-02-27 at 10 23 44" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d022cdc3-10fa-484f-91a5-ebf42c2a80b8">
 
