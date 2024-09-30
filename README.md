@@ -50,9 +50,8 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="371" alt="Screenshot 2024-02-26 at 02 58 34" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/5c972891-e57b-40a6-a6f6-6e4eda2dbfcf">
 
 - Data Warehousing and Business Intelligence | Data-mart design with SQLite and Python (_April 2022_)
-<img width="664" alt="Screenshot 2024-02-27 at 10 27 35" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/090ba53f-9ce1-4e43-b5a0-23f7d2d06665">
-
     "This data mart was designed to support customer segmentation, enabling targeted marketing email campaigns. By integrating customer, product, and invoice data, the model allowed       management to satisfy complex queries regarding customer behavior and purchase patterns quickly. The segmentation was used to enhance the effectiveness of marketing strategies and     personalize communication efforts."
+<img width="664" alt="Screenshot 2024-02-27 at 10 27 35" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/090ba53f-9ce1-4e43-b5a0-23f7d2d06665">
 
 ## PMO Projects
 
