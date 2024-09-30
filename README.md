@@ -102,23 +102,23 @@ Social media platforms exert a significant influence on social behavior. Develop
   <img width="437" alt="Screenshot 2024-09-30 at 23 50 08" src="https://github.com/user-attachments/assets/16a773d8-29b0-4117-9ec0-0d080d8b6e58">
 
 
-#### How to leverage Einstein Activity Capture (EAC) and custom formula fields to count email interactions and enhance lead engagement.
+#### How to leverage Email to Case and Einstein Activity Capture (EAC) and custom fields to obtain email engagement metrics between leads and SF users.
 
 - [X] Situation
       
-  The sales team relied heavily on a single info@email address, a shortcut to track email interactions for all team members at once. However, the individual reps. engagement and the expiration of the Outlook Salesforce add-on markets this organization obsolete. With raw data available from EAC, there was a need to implement a system to count and track email interactions more effectively.
+  The sales team relied heavily on a single info@email address, a shortcut to track email interactions for all team members at once. However, the individual reps. engagement and the expiration of the Outlook Salesforce add-on markets this set-up obsolete. With raw data unified activities from EAC and SF features still unused, there was a need to implement a system to count and track email interactions more effectively.
 
 - [X] Task
 
-  Crack the Einstein Activity metrics capture and master the visualization of email interaction per pipeline. Also, evaluate how shifting from using the info@email address to individual executive emails would challenge the business processes.
+  Crack the Email to Case, and Einstein Activity (AWS) metrics to master the visualization of email interaction per pipeline. Also, evaluate how shifting from using the info@email address to individual executive emails would challenge the business processes.
 
 - [X] Action
 
-  Using Salesforce’s Object Manager, I created custom formula fields to count email interactions for each lead. Enabling the Einstein Analytics in settings, I can materialise these metrics in Custom Reports, therefore populate the formula fields and showcase the metrics and email engagement distribution charts across dashboards. 
+  Using Salesforce’s Email to Case, I created several trigger flows to populate new custom fields to count email interactions for each lead (emails sent vs emails received). Enabling the Activity Timeline and custom reports, I can materialise these metrics in Custom Dashboards, and showcase the engagement behaviour distribution in charts across each pipeline. 
 
 - [X] Results
-  Sales representatives can now see detailed interaction metrics for each lead (formula fields) and can monitor the engagement of their pipeline (dashboard). 
-
+  Sales representatives can now see detailed interaction metrics with their open lead (metric components) and can realise when somebody sporadically absent from the team needs help to meet email SLA standards. 
+ 
+  <img width="678" alt="Screenshot 2024-09-30 at 23 51 36" src="https://github.com/user-attachments/assets/a422ce6f-71de-488e-9476-5542be5e0913">
   <img width="921" alt="Screenshot 2024-05-29 at 22 33 46" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/f424eaba-af14-4af1-ad40-146c0e7b7576">
-
 
