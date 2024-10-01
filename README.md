@@ -105,6 +105,7 @@ Social media platforms exert a significant influence on social behavior. Develop
   Using Salesforce’s Email to Case, I created several trigger flows to populate new custom fields to count email interactions for each lead (emails sent vs emails received). Enabling the Activity Timeline and custom reports, I can materialise these metrics in Custom Dashboards, and showcase the engagement behaviour distribution in charts across each pipeline. 
 
 - [X] Results
+      
   Sales representatives can now see detailed interaction metrics with their open lead (metric components) and can realise when somebody sporadically absent from the team needs help to meet email SLA standards. 
  
   <img width="678" alt="Screenshot 2024-09-30 at 23 51 36" src="https://github.com/user-attachments/assets/a422ce6f-71de-488e-9476-5542be5e0913">
