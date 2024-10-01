@@ -195,31 +195,34 @@ Social media platforms exert a significant influence on social behavior. Develop
   
     * Lead & Opportunity Management in Salesforce
   
-    - Pipeline Visualization with Dashboards
+    * Pipeline Visualization with Dashboards
   
-    > Collaboration and Productivity Tools
+    * Collaboration and Productivity Tools
   
-    (Microsoft 365 Overview: Power Platforms)
+    * Microsoft 365 Overview: Power Platforms)
   
-      ##### Best Practices for Security and GDPR Compliance
+    * Best Practices for Security and GDPR Compliance
 
 - New Sofware Integrations | ( 2023 - 2024 )
   
-    #### Outlook add-ons
+    * Outlook add-ons
   
-    #### Mailchimp across multifuctional teams
+    * Mailchimp across multifuctional teams
   
-    #### Website HTML forms for Data Capture
+    * Website HTML forms for Data Capture
   
-    #### Salesforce Sales Cloud
+    * Salesforce Sales Cloud
   
-    #### Power BI dashboarding
+    * Power BI dashboarding
   
-    #### Jira, Monday.com, and Planner (eventually)
+    * Jira, Monday.com, and Planner (eventually)
 
 - Program Methodologies | ( 2023 - 2024 )
 
-    #### Agile (Scrum/Kanban)
-    #### Waterfall
-    #### A/B testing (in Data Science applied to Marketing)
+    * Agile (Scrum/Kanban)
+      
+    * Waterfall
+      
+    * A/B testing (in Data Science applied to Marketing)
 
+  <img width="674" alt="Screenshot 2024-10-01 at 01 52 48" src="https://github.com/user-attachments/assets/4aa2aa4d-1084-4a95-96ec-0d0b85bb0d8b">
