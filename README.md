@@ -193,16 +193,16 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 - Training core guidelines developed | ( 2023 - 2024 )
   
-    #### Lead & Opportunity Management in Salesforce
+    * Lead & Opportunity Management in Salesforce
   
-    #### Pipeline Visualization with Dashboards
+    - Pipeline Visualization with Dashboards
   
-    #### Collaboration and Productivity Tools
+    > Collaboration and Productivity Tools
   
-    #### Microsoft 365 Overview: Power Platforms
+    (Microsoft 365 Overview: Power Platforms)
   
-    ##### Best Practices for Security and GDPR Compliance
-  
+      ##### Best Practices for Security and GDPR Compliance
+
 - New Sofware Integrations | ( 2023 - 2024 )
   
     #### Outlook add-ons
