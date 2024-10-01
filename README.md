@@ -116,7 +116,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 - [X] Situation
 
-  The sales team was manually replying to web inquiries, which wasted time in those cases where the lead was unresponsive and led to inconsistent communication. There was a need to     save time on presales but ensure timely replies, also the lead status could be reflected more accurately as it moved through the sales funnel. The goal was to streamline communication with potential leads while automating key status updates based on the responses received.
+  The sales team was manually replying to web inquiries, which sometimes led to inconsistent communication, also wasted time in those cases where the lead was unresponsive. Therefore, there was a need to save time on presales but ensure timely replies. In addition, due to human error, the lead status could be reflected more accurately as it moved through the sales funnel. Long story short, the goal was to streamline communication with potential leads while automating key status updates based on the responses received.
 
 - [X] Task
 
