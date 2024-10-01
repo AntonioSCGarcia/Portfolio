@@ -13,7 +13,7 @@
   "This Power BI visualization utilizes a packed bubble chart to strategically segment customers within the build-to-rent (BTR) sector using the RFM (Recency, Frequency, Monetary) model.
 Bubble size likely reflects total resident transaction value (Monetary), while positioning along the X/Y axes indicates renewal recency and frequency. This analysis offers actionable insights by uncovering valuable customer segments and patterns within resident behavior, facilitating data-driven decision-making to optimize marketing and resident retention strategies in the BTR industry"
 
-- Data Mining and Machine Learning | Building an Ensemble Model over Facebook metrics | (_May 2023_)
+- Data Mining and Machine Learning | Building an Ensemble Model using Facebook metrics | (_May 2023_)
   <img width="711" alt="Screenshot 2024-02-27 at 10 16 18" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/9e5bcd6d-b1ee-4faa-ba29-6ad3c2f85dab">
   "In this paper, I evaluate the performance of several well-known machine learning techniques for predicting the impact of Facebook posts. The models investigated include k-Nearest Neighbors (KNN), Support Vector Machines (SVM), Random Forest (RF), and Logistic Regression (LR).
 Social media platforms exert a significant influence on social behavior. Developing an automatic model to predict the impact of social media posts can support managers' decisions on whether to publish content, potentially enhancing engagement and reach. This analysis could be complemented with sensitivity analysis to provide further insights."
@@ -60,7 +60,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 |  Latest Challenges Achieved 
 | ------------- | ------------- |------------- |
 | 1 | Territorial management | Lead-Assignment rules, Escalation rules             | (_May 2024_)
-| 2 | Email to Case + EAC | Email unified metrics, Flow, Dasboarding              | (_June 2024_)
+| 2 | Email to Case + EAC | Email unified metrics, Flow, Dashboarding              | (_June 2024_)
 | 3 | Auto-reponse Email & Field updates | Flow, Messaging Templates              | (_July 2024_)
 | 4 | Call Scripting & Data Capture | Flow, In-app guidance                        | (_August 2024_)
 | 5 | Forcasting Accuracy | Sales Cloud features                                   | (_September 2024_)
@@ -203,7 +203,7 @@ Social media platforms exert a significant influence on social behavior. Develop
   
     * Best Practices for Security and GDPR Compliance
 
-- New Sofware Integrations | ( 2023 - 2024 )
+- New Software Integrations | ( 2023 - 2024 )
   
     * Outlook add-ons
   
