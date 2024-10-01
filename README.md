@@ -106,7 +106,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 - [X] Results
       
-  Sales representatives can now see detailed interaction metrics with their open lead (metric components) and can realise when somebody sporadically absent from the team needs help to meet email SLA standards. 
+  Sales representatives can now see detailed interaction metrics with their open leads (via dashboard metric components) and can realise when somebody from the team, who becomes absent sporadically, needs help to meet email SLA standards. In that way, team members can cover each other's workload on a Public/edit Org Wide Default (OWD) setting.   
  
   <img width="678" alt="Screenshot 2024-09-30 at 23 51 36" src="https://github.com/user-attachments/assets/a422ce6f-71de-488e-9476-5542be5e0913">
   <img width="921" alt="Screenshot 2024-05-29 at 22 33 46" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/f424eaba-af14-4af1-ad40-146c0e7b7576">
