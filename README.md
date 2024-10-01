@@ -74,8 +74,8 @@ Social media platforms exert a significant influence on social behavior. Develop
 | 1 | Territorial management | Lead-Assignment rules, Escalation rules             | (_May 2024_)
 | 2 | Email to Case + EAC | Email unified metrics, Flow, Dasboarding              | (_June 2024_)
 | 3 | Auto-reponse Email & Field updates | Flow, Messaging Templates              | (_July 2024_)
-| 4 | Call Scripting & Data Capture | Flow, In-app guidance                        | (_Aug 2024_)
-
+| 4 | Call Scripting & Data Capture | Flow, In-app guidance                        | (_August 2024_)
+| 5 | Forcasting Accuracy | Sales Cloud features                                   | (_September 2024_)
 
 
 #### 1. Configuring a Secure Stream of Leads: How to secure your organization by managing and protecting what leads your users have access to
@@ -162,6 +162,39 @@ Social media platforms exert a significant influence on social behavior. Develop
       
   New sales representatives are now able to follow a more controlled and consistent script during phone calls, which has improved customer interactions and increased data accuracy. The guided flow has reduced training time for new hires, allowing them to quickly become proficient in managing calls. The structured approach has also led to better overall customer satisfaction and more accurate data collection, giving management more reliable insights into call performance and outcomes.
 
-<img width="427" alt="Screenshot 2024-10-01 at 00 48 58" src="https://github.com/user-attachments/assets/2b89b3d7-bb97-4d4c-b630-794080357469">
+ <img width="453" alt="Screenshot 2024-10-01 at 01 01 08" src="https://github.com/user-attachments/assets/c58c892e-a9dd-43f1-b9fd-dbcb0b68273f">
 
- 
+
+#### 5. Implementing Full Forecasting Features in Salesforce Sales Cloud
+
+- [X] Situation
+
+  The sales leadership team was struggling with unreliable and inconsistent sales forecasts. Different regions and teams were using varied methods to predict revenue, leading to fragmented and often inaccurate projections. Sales leaders lacked visibility into the overall pipeline health, making it difficult to plan for resources or set realistic sales targets. The company needed a more structured and centralized approach to forecasting to drive better decision-making and alignment across teams.
+
+- [X] Task
+
+  I was tasked with implementing Salesforce's forecasting features to provide the sales leadership team with a unified, accurate view of future revenue. This would involve configuring collaborative forecasts, setting up forecast categories, enabling quota tracking, and providing managers with the ability to adjust forecasts in real-time. The system needed to be adaptable to different sales teams, products, and regions, while also allowing for flexibility in forecasting based on specific sales cycles.
+
+- [X] Action
+
+  I started by working closely with the sales leadership team to understand the nuances of their sales processes, revenue cycles, and the KPIs they wanted to track. From there, I:
+  
+  Configured Collaborative Forecasting: I set up collaborative forecasting to ensure all sales reps could contribute to their team's forecasts. I worked on defining the appropriate forecast types (e.g., revenue, quantity) based on the organization's product lines and service offerings. These forecasts were then grouped by regions, products, and teams, providing a consolidated view for the sales leaders.
+
+  Defined Forecast Categories: I aligned forecast categories with the sales cycle stages (Pipeline, Best Case, Commit, and Closed) so that sales reps could accurately classify their opportunities. This allowed the leadership team to see potential revenue breakdowns by stage and likelihood of closing.
+
+  Enabled Quotas and Forecast Adjustments: I implemented quota management to help the sales managers assign specific revenue targets to individual reps and teams. I also enabled forecast adjustments, allowing managers to make real-time modifications based on insights or changing circumstances without losing visibility into the original forecasts.
+
+  Automated Reports and Dashboards: To ensure real-time visibility, I created custom reports and dashboards that pulled forecast data by various dimensions—such as region, product line, and sales stage—allowing for quick analysis of where revenue was expected to come from. These reports also included variance analysis, showing the difference between initial forecasts and actual performance.
+
+  Implemented Forecasting for Custom Metrics: Since the company also tracked recurring revenue and renewal contracts, I configured custom objects and fields to capture these elements within the forecasts. This provided a more holistic view of expected revenue beyond just one-time sales.
+
+
+- [X] Results
+
+  The forecasting project led to a significant improvement in the company’s ability to predict future revenue. With the unified system in place, sales leaders could now access real-time data on their pipelines and adjust forecasts dynamically based on market changes or rep performance. The accuracy of the forecasts improved by 30%, and the sales team was able to meet their quotas more consistently. Leadership gained a clearer understanding of where to focus resources and how to better allocate sales efforts.
+
+  The automated dashboards allowed managers to make data-driven decisions quickly, reducing the time spent manually compiling forecast reports by 60%. The improved forecast visibility also helped in setting more realistic targets for the next quarter, reducing the stress and uncertainty previously felt by both sales teams and management.
+
+
+  <img width="554" alt="Screenshot 2024-10-01 at 01 08 29" src="https://github.com/user-attachments/assets/8bdea0d3-aa76-4d8e-b45e-ace9b27e5508">
