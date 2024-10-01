@@ -22,9 +22,9 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="757" alt="Screenshot 2024-02-27 at 10 20 55" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/dd536f6b-2d1a-4857-9a2b-204ae2d359f8">
 <img width="434" alt="Screenshot 2024-02-27 at 10 21 15" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/ab268140-272f-4c4e-811a-864880d1b670">
   
-- Data Visualization & Dashboarding | Where in the UK are the best job opportunities for the millennial generation (_May 2023_)
+- Data Visualization & Dashboarding | Where in the UK are the best opportunities for the millennial generation (_May 2023_)
 
-"This project explores regional job opportunities for millennials across the UK using data visualization and dashboarding tools. Through historical trends and demographic insights, the analysis identifies regions with the most promising job markets. The visualizations help pinpoint areas of growth and population density, providing actionable insights for policymakers and job seekers."
+   "This project explores regional job opportunities for millennials across the UK using data visualization and dashboarding tools. Through historical trends and demographic insights, the analysis identifies regions with the most promising job markets. The visualizations help pinpoint areas of growth and population density, providing actionable insights for policymakers and job seekers."
 
 <img width="507" alt="Screenshot 2024-02-27 at 10 24 11" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/5ab86d35-4930-4c16-8fc6-953149054576">
 <img width="703" alt="Screenshot 2024-02-27 at 10 23 44" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d022cdc3-10fa-484f-91a5-ebf42c2a80b8">
@@ -162,8 +162,7 @@ Social media platforms exert a significant influence on social behavior. Develop
       
   New sales representatives are now able to follow a more controlled and consistent script during phone calls, which has improved customer interactions and increased data accuracy. The guided flow has reduced training time for new hires, allowing them to quickly become proficient in managing calls. The structured approach has also led to better overall customer satisfaction and more accurate data collection, giving management more reliable insights into call performance and outcomes.
 
-  <img width="427" alt="Screenshot 2024-10-01 at 00 48 58" src="https://github.com/user-attachments/assets/2d97157a-8b7b-488f-87d5-764d811089db">
-
+  <img width="453" alt="Screenshot 2024-10-01 at 01 11 31" src="https://github.com/user-attachments/assets/44fb9864-1e4d-40ce-8081-d2835f8fcacb">
 
 
 #### 5. Implementing Full Forecasting Features in Salesforce Sales Cloud
