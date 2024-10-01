@@ -198,3 +198,31 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 
   <img width="554" alt="Screenshot 2024-10-01 at 01 08 29" src="https://github.com/user-attachments/assets/8bdea0d3-aa76-4d8e-b45e-ace9b27e5508">
+
+## PMO Projects 
+
+#### Software Skills: Team Bulding, Software implementations, Project Methodologies 
+
+- Training core guidelines developed | ( 2023 - 2024 )
+  
+    #### Lead & Opportunity Management in Salesforce
+    #### Pipeline Visualization with Dashboards
+    #### Collaboration and Productivity Tools
+    #### Microsoft 365 Overview: Power Platforms
+    ##### Best Practices for Security and GDPR Compliance
+  
+- New Sofware Integrations | ( 2023 - 2024 )
+  
+    #### Outlook add-ons
+    #### Mailchimp across multifuctional teams
+    #### Website HTML forms for Data Capture
+    #### Salesforce Sales Cloud
+    #### Power BI dashboarding
+    #### Jira, Monday.com, and Planner (eventually)
+
+  - Program Methodologies | ( 2023 - 2024 )
+
+    #### Agile (Scrum/Kanban)
+    #### Waterfall
+    #### A/B testing (in Data Science applied to Marketing)
+
