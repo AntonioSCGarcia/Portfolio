@@ -53,18 +53,6 @@ Social media platforms exert a significant influence on social behavior. Develop
     "This data mart was designed to support customer segmentation, enabling targeted marketing email campaigns. By integrating customer, product, and invoice data, the model allowed       management to satisfy complex queries regarding customer behavior and purchase patterns quickly. The segmentation was used to enhance the effectiveness of marketing strategies and     personalize communication efforts."
 <img width="664" alt="Screenshot 2024-02-27 at 10 27 35" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/090ba53f-9ce1-4e43-b5a0-23f7d2d06665">
 
-## PMO Projects
-
-#### Software Skills: Salesforce, Creative Cloud, Microsoft 365 
-
-- Salesforce Training core guidelines developed | ( September 2023 )
-<img width="580" alt="Screenshot 2024-02-27 at 10 00 53" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/85842b61-5473-4e19-a413-03ea302a493c">
-
-- Salesforce Integrations (Outlook, Mailchimp, Web to Lead HTML forms) | (_ From May 2021_)
-<img width="772" alt="Screenshot 2024-05-29 at 22 36 42" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/7fb6faf2-757a-424e-8348-0f6456d3c886">
-<img width="790" alt="Screenshot 2024-05-29 at 22 36 57" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a52d30bd-5f81-408f-bfdb-a61108847449">
-
-
 
 # Salesforce Projects
 
@@ -199,28 +187,37 @@ Social media platforms exert a significant influence on social behavior. Develop
 
   <img width="554" alt="Screenshot 2024-10-01 at 01 08 29" src="https://github.com/user-attachments/assets/8bdea0d3-aa76-4d8e-b45e-ace9b27e5508">
 
-## PMO Projects 
+## PMO Background  
 
-#### Software Skills: Team Bulding, Software implementations, Project Methodologies 
+#### Skills: Team Bulding, Software implementations, Project Methodologies 
 
 - Training core guidelines developed | ( 2023 - 2024 )
   
     #### Lead & Opportunity Management in Salesforce
+  
     #### Pipeline Visualization with Dashboards
+  
     #### Collaboration and Productivity Tools
+  
     #### Microsoft 365 Overview: Power Platforms
+  
     ##### Best Practices for Security and GDPR Compliance
   
 - New Sofware Integrations | ( 2023 - 2024 )
   
     #### Outlook add-ons
+  
     #### Mailchimp across multifuctional teams
+  
     #### Website HTML forms for Data Capture
+  
     #### Salesforce Sales Cloud
+  
     #### Power BI dashboarding
+  
     #### Jira, Monday.com, and Planner (eventually)
 
-  - Program Methodologies | ( 2023 - 2024 )
+- Program Methodologies | ( 2023 - 2024 )
 
     #### Agile (Scrum/Kanban)
     #### Waterfall
