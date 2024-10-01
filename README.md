@@ -191,7 +191,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 #### Skills: Team Bulding, Software implementations, Project Methodologies 
 
-- Training core guidelines developed | ( 2023 - 2024 )
+- Training - core guidelines developed | ( 2023 - 2024 )
   
     * Lead & Opportunity Management in Salesforce
   
