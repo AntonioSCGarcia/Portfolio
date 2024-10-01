@@ -199,7 +199,7 @@ Social media platforms exert a significant influence on social behavior. Develop
   
     * Collaboration and Productivity Tools
   
-    * Microsoft 365 Overview: Power Platforms)
+    * Microsoft 365 Overview: Power Platforms
   
     * Best Practices for Security and GDPR Compliance
 
