@@ -162,7 +162,8 @@ Social media platforms exert a significant influence on social behavior. Develop
       
   New sales representatives are now able to follow a more controlled and consistent script during phone calls, which has improved customer interactions and increased data accuracy. The guided flow has reduced training time for new hires, allowing them to quickly become proficient in managing calls. The structured approach has also led to better overall customer satisfaction and more accurate data collection, giving management more reliable insights into call performance and outcomes.
 
- <img width="453" alt="Screenshot 2024-10-01 at 01 01 08" src="https://github.com/user-attachments/assets/c58c892e-a9dd-43f1-b9fd-dbcb0b68273f">
+  <img width="427" alt="Screenshot 2024-10-01 at 00 48 58" src="https://github.com/user-attachments/assets/2d97157a-8b7b-488f-87d5-764d811089db">
+
 
 
 #### 5. Implementing Full Forecasting Features in Salesforce Sales Cloud
