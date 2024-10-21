@@ -2,9 +2,9 @@
 
 
 
-## Marketing Projects
+## Marketing & Sales Projects
 
-#### Software Skills: Power BI, Python, SQLite, Excel
+#### Software Skills: Power BI, Python, SQLite, Excel, Salesforce Sales Cloud CRM, Microsoft 365.
 
 - RFM analysis and k-means clustering | Customer DB segmentation in Revenue Management | (_January 2024_)
 <img width="610" alt="Screenshot 2024-02-27 at 10 19 50" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/382ce1f5-22a1-49ae-9898-8460cc0780a4">
@@ -29,9 +29,6 @@ Social media platforms exert a significant influence on social behavior. Develop
   <img width="507" alt="Screenshot 2024-02-27 at 10 24 11" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/5ab86d35-4930-4c16-8fc6-953149054576">
   <img width="703" alt="Screenshot 2024-02-27 at 10 23 44" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/d022cdc3-10fa-484f-91a5-ebf42c2a80b8">
 
-## Sales Projects
-
-#### Software Skills: Salesforce Sales Cloud CRM, Power BI, Microsoft Excel and 365 suite.
 
 - Leads Churn Prediction with Python and Power BI | (_January 2024_)
 <img width="768" alt="Screenshot 2024-02-26 at 03 15 38" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/aee209ab-7ca8-45b7-b00f-239d066f3222">
