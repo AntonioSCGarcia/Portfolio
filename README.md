@@ -39,7 +39,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="1432" alt="Screenshot 2024-02-26 at 02 57 20" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/a36765b2-9729-4f19-bc16-543971cbc308">
 
 
-## Out of the Box Projects
+## DATA MINING PROJECTS
 
 #### Software Skills: Python (selenium, Beautiful Soup), SQLite, Excel
 - Price Web Scraping |Competitor Market Analysis | (_January 2024_)
@@ -51,10 +51,10 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="664" alt="Screenshot 2024-02-27 at 10 27 35" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/090ba53f-9ce1-4e43-b5a0-23f7d2d06665">
 
 
-# Salesforce Projects
+# Salesforce Business Development
 
 
-|  Latest Challenges Achieved 
+|  Projects Catalogue
 | ------------- | ------------- |------------- |
 | 1 | Territorial management | Lead-Assignment rules, Escalation rules             | (_May 2024_)
 | 2 | Email to Case + EAC | Email unified metrics, Flow, Dashboarding              | (_June 2024_)
