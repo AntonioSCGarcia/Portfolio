@@ -225,7 +225,6 @@ Social media platforms exert a significant influence on social behavior. Develop
 
   <img width="674" alt="Screenshot 2024-10-01 at 01 52 48" src="https://github.com/user-attachments/assets/4aa2aa4d-1084-4a95-96ec-0d0b85bb0d8b">
   
-  <img width="674" alt="Screenshot 2025-07-19 at 17 46 09" src="https://github.com/user-attachments/assets/682f94b1-5226-489e-a9b6-eb3b25b90528" />
-
   <img width="674" alt="Screenshot 2025-07-19 at 17 53 31" src="https://github.com/user-attachments/assets/dc6e4700-4623-4e4c-af2f-7fafe3c4dc87" />
 
+  <img width="674" alt="Screenshot 2025-07-19 at 17 46 09" src="https://github.com/user-attachments/assets/682f94b1-5226-489e-a9b6-eb3b25b90528" />
