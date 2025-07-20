@@ -2,7 +2,7 @@
 
 
 
-## Marketing & Sales Projects
+## Martech and Segmentation Projects
 
 #### Software Skills: Power BI, Python, SQLite, Excel, Salesforce Sales Cloud CRM, Microsoft 365.
 
@@ -51,7 +51,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="664" alt="Screenshot 2024-02-27 at 10 27 35" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/090ba53f-9ce1-4e43-b5a0-23f7d2d06665">
 
 
-# Salesforce Project Manager
+# Salesforce Project Management 
 
 
 |  Projects Catalogue
@@ -229,7 +229,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 
   <img width="674" alt="Screenshot 2025-07-19 at 18 12 34" src="https://github.com/user-attachments/assets/a935abcc-38d0-4f72-a2e6-5ae7f0820b2b" />
 
-# Salesforce Business Analyst
+# Salesforce Business Analysis
 
 
 
