@@ -1,4 +1,4 @@
-# Technical Background 
+<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/7e5ddfd4-c305-4560-b831-894ca781daab" /># Technical Background 
 
 
 
@@ -235,10 +235,13 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 |  Projects Catalogue
 | ------------- | ------------- |------------- |
-| 1 |... | Lead-Assignment rules, Escalation rules             | (_Mach 2025_)
-| 2 | Email to Case + EAC | Email unified metrics, Flow, Dashboarding              | (_March 2025_)
-| 3 | Auto-reponse Email & Field updates | Flow, Messaging Templates               | (_April 2025_)
-| 4 | Call Scripting & Data Capture | Flow, In-app guidance                        | (_June 2025_)
-| 5 | Mar keting Permissions | CRM x4 Clouds & Snowflake                            | (_June 2025_)
-
+| 1 | Salesforce Refinement Process | Jira, P&I Testing and Amigo sessions, HISI, Demo, Workshops, Cadence            | (_Mach 2025_)
+| 2 | Tableau & Salesforce Dashboards | Forcasting, Snowflake DB, Commercial            | (_Mach 2025_)
+| 3 | VAS Audit | Legal & Assurance, Flows, Conga, Activity Tasks, Notifications         | (_March 2025_)
+| 4 | Dealer Portal | SF Experience Cloud, Chatter, Comms, Verification Checks, Notifications       | (_March 2025_)
+| 5 | AMR | Reports and Dashboards, Flows, Messaging Templates, Data management, Custom Objects             | (_April 2025_)
+| 6 | API's enviroment upgrade | Digital Lending Platform, SF MuleSoft                   | (_June 2025_)
+| 7 | Mar keting Permissions | CRM x4 Clouds, Snowflake, Castor                           | (_June 2025_)
+| 8 | Salesforce UAT release process | Github, Jira, Gearset, Salesforce CLI            | (_July 2025_)
+| 9 | Marketing Segmentation and Reactive Comms | Survey Monkey, SF Marketing Cloud, SQL, Salesforce Flows            | (_July 2025_)
 
