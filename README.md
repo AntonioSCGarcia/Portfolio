@@ -51,7 +51,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 <img width="664" alt="Screenshot 2024-02-27 at 10 27 35" src="https://github.com/AntonioSCGarcia/Portfolio/assets/107673009/090ba53f-9ce1-4e43-b5a0-23f7d2d06665">
 
 
-# Salesforce Business Development
+# Salesforce Project Manager
 
 
 |  Projects Catalogue
@@ -185,7 +185,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 
   <img width="554" alt="Screenshot 2024-10-01 at 01 08 29" src="https://github.com/user-attachments/assets/8bdea0d3-aa76-4d8e-b45e-ace9b27e5508">
 
-## PMO Background  
+## Other PMO Background  
 
 #### Skills: Team Bulding, Software implementations, Project Methodologies 
 
@@ -228,4 +228,17 @@ Social media platforms exert a significant influence on social behavior. Develop
   <img width="674" alt="Screenshot 2025-07-19 at 17 53 31" src="https://github.com/user-attachments/assets/dc6e4700-4623-4e4c-af2f-7fafe3c4dc87" />
 
   <img width="674" alt="Screenshot 2025-07-19 at 18 12 34" src="https://github.com/user-attachments/assets/a935abcc-38d0-4f72-a2e6-5ae7f0820b2b" />
+
+# Salesforce Business Analyst
+
+
+
+|  Projects Catalogue
+| ------------- | ------------- |------------- |
+| 1 |... | Lead-Assignment rules, Escalation rules             | (_Mach 2025_)
+| 2 | Email to Case + EAC | Email unified metrics, Flow, Dashboarding              | (_March 2025_)
+| 3 | Auto-reponse Email & Field updates | Flow, Messaging Templates               | (_April 2025_)
+| 4 | Call Scripting & Data Capture | Flow, In-app guidance                        | (_June 2025_)
+| 5 | Mar keting Permissions | CRM x4 Clouds & Snowflake                            | (_June 2025_)
+
 
