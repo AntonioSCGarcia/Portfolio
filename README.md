@@ -213,7 +213,7 @@ Social media platforms exert a significant influence on social behavior. Develop
   
     * Power BI dashboarding
   
-    * Jira, Monday.com, and Planner (eventually)
+    * Jira, Monday.com, and Planner
 
 - Program Methodologies | ( 2023 - 2024 )
 
@@ -235,7 +235,7 @@ Social media platforms exert a significant influence on social behavior. Develop
 
 |  Projects Catalogue
 | ------------- | ------------- |------------- |
-| 1 | Salesforce Refinement Process | Jira, P&I Testing and Amigo sessions, HISI, Demo, Workshops, Cadence            | (_Mach 2025_)
+| 1 | Salesforce Refinement Process | Jira, P&I Testing and Amigo sessions, HISI, Demo, Workshops, Cadence            | (_February 2025_)
 | 2 | Tableau & Salesforce Dashboards | Forcasting, Snowflake DB, Commercial            | (_Mach 2025_)
 | 3 | VAS Audit | Legal & Assurance, Flows, Conga, Activity Tasks, Notifications         | (_March 2025_)
 | 4 | Dealer Portal | SF Experience Cloud, Chatter, Comms, Verification Checks, Notifications       | (_March 2025_)
