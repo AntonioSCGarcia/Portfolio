@@ -1,4 +1,3 @@
-<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/7e5ddfd4-c305-4560-b831-894ca781daab" /># Technical Background 
 
 
 
